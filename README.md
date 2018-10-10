@@ -24,3 +24,11 @@ This is where our app comes in.
   3. *SOS:* The app will have an SOS button to ask for help, which will be available as per the location of the user, to prevent any         misuse.
   4. *Donations:* The app will have a section for accepting donations, powered by secure payment methods and due acknowledgment after payment. If any user wishes to donate their own material, they may drop it at some designated collection centres listed in-app.
   5. *Inventory:* This is conducted entirely in the backend. The donations we receive will be kept accounted for, and this information shall not be available to users.
+
+# How users can get started
+
+The app will be based on a signup/login platform. New users signup by entering in their locations and contact details. Existing users can login through an OTP feature linked to their contact numbers.
+
+# What technologies we might use
+
+As of now, we're planning to build the app using C# and Python. We're intending it to work on the Windows platform, and may expand to other platforms given time.
